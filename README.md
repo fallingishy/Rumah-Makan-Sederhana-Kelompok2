@@ -81,3 +81,18 @@ Website ini merupakan website sederhana yang digunakan untuk memesan makanan mel
       - Konfirmasi pesanan dengan ringkasan
 
 # Dokumentasi Website
+## Tampilan Dekstop
+
+1. Halaman Home (index.html)
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/af721c77-e2b0-464c-b7af-2552bda27dd5" />
+
+2. Halaman Menu (menu.html)
+<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/fe0911fe-c781-4d77-ab79-bd5d695f676d" />
+<img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/13e90492-0190-4f54-8666-0cc98dbfd89b" />
+
+3. Halaman About (aboout.html)
+<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/f950e903-3635-4861-9642-75a4007257aa" />
+
+4. Halaman Contact Us (contact.html)
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 125806" src="https://github.com/user-attachments/assets/0b72088f-7ada-4bc2-89b2-6fa8acb47869" />
+<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/86955752-6f19-497d-bbc4-00ab18610d5e" />
