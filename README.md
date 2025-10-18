@@ -1,5 +1,5 @@
 # Rumah-Makan-Sederhana-Kelompok2
-Link website: https://fallingishy.github.io/Rumah-Makan-Sederhana-Kelompok2/
+Link website: https://fallingishy.github.io/Rumah-Makan-Sederhana-156-158-166-Kelompok2/
 
 Website ini merupakan website sederhana yang digunakan untuk memesan makanan melalui website dari sebuah rumah makan sederhana. Website ini juga bisa digunakan untuk platfrom promosi dari Rumah Makan Sederhana.
 
